@@ -92,7 +92,7 @@ p {
   width: 100%;
   height: 100vh;
   background: black
-    url("https://media.giphy.com/media/SXaatuqKg3vmPEH3kZ/giphy.gif") no-repeat
+    url("loader.gif") no-repeat
     center;
   z-index: 999;
 }
